@@ -12,7 +12,7 @@ I only design the first challenge, as a prototype. Our JS Hero, Justus,  should 
 
 ### how it works?
 
-I use ace-editor as coding interface. This editor is really easy to embed in our HTML document. To make the javascript running, these few lines make the magic: 
+I used the  [ace editor](https://ace.c9.io/) as coding interface. This editor is really easy to embed in our HTML document. To make the javascript running, these few lines make the magic: 
 
 ```
 editor.getSession().on('change', function () {
