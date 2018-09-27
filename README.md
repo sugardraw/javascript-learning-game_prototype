@@ -21,7 +21,7 @@ module.exports = {
                 }
             }
             //...
-            }
+ }
  ```
 
 I only design the first challenge, as a prototype. Our JS Hero, Justus,  should avoid the falling bombs and get the diamond. You need to write your code fast, otherwise you lose your lives.
