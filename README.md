@@ -12,7 +12,7 @@ In order to make the loader work, it is necessary to include it in our webpack.c
 
 ```
 module.exports = {
-            ...
+            //...
             {
                 test: /\.svg/,
                 use: {
@@ -20,7 +20,7 @@ module.exports = {
                     options: {}
                 }
             }
-            ...
+            //...
             }
  ```
 
