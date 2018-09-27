@@ -8,6 +8,22 @@ A main challenge was to compile the svg-images from the src folder into the publ
 npm install svg-url-loader
 ```
 
+In order to make the loader work, it is necessary to include it in our webpack.config.js file like this:
+
+```
+module.exports = {
+            ...
+            {
+                test: /\.svg/,
+                use: {
+                    loader: 'svg-url-loader',
+                    options: {}
+                }
+            }
+            ...
+            }
+ ```
+
 I only design the first challenge, as a prototype. Our JS Hero, Justus,  should avoid the falling bombs and get the diamond. You need to write your code fast, otherwise you lose your lives.
 
 ### how it works?
