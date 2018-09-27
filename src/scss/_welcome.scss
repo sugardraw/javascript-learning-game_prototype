@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: chartreuse;
+}
+.welcome{
+    position: absolute;
+    top:0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(1, 120, 255);
+    span{
+        font-weight: bold;
+        color: rgb(102, 45, 7);
+    }
+    h2{
+        color: white;
+        position: relative;
+        text-align: center;
+        top: 15rem;
+    }
+    h5{
+        color: white;
+        position: relative;
+        text-align: center;
+        top: 15.3rem;
+    }
+    input{
+        display: block;
+        top: 18rem;
+        color: rgb(1, 120, 255);
+        position: relative;
+        width: 200px;
+        background-color:  rgb(255, 255, 255) !important;
+        &:hover{
+            color:rgb(102, 45, 7) !important;
+        }
+    }
+}

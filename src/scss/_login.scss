@@ -1,0 +1,77 @@
+/**
+    styles for the form
+    */
+
+  .container{
+    margin: 12rem auto;
+    max-width: 700px;
+        padding: 1rem;
+        input[type="submit"]{
+          position: relative;
+          left: 37.6rem !important;
+        }
+  }
+
+
+    // .container {
+    //     position: absolute;
+    //     left: 30%;
+    //     margin: 10rem auto;
+    //     display: flex;
+    //     flex-direction: column;
+    //     width: 40%;
+    //     padding: 2rem;
+    //     border: 1px solid white;
+    //     border-radius: 5px; }
+    //     .container > * {
+    //       border-radius: 5px;
+    //       padding: 0.7rem 0.7rem 0.7rem 0rem;
+    //       font-family: 'Inconsolata', monospace;
+    //       letter-spacing: 0.2rem;
+    //       border-style: none; }
+      
+    //   input[type="password"] {
+    //     padding: 0.7rem 0.7rem 0.7rem 0.7rem;
+    //     font-family: 'Inconsolata', monospace;
+    //     letter-spacing: 0.2rem;
+    //     border-radius: 5px;
+    //     border-style: none;
+    //     width: 60%; }
+      
+    //   input[type="text"] {
+    //     padding: 0.7rem 0.7rem 0.7rem 0.7rem; }
+      
+    //   input[type="email"] {
+    //     padding: 0.7rem 0.7rem 0.7rem 0.7rem; }
+      
+    //   .passwordField {
+    //     padding: 0;
+    //     position: relative;
+    //     top: -0.9rem; }
+      
+    //   label {
+    //     margin-top: 1rem; }
+      
+    //   #btnVisible {
+    //     margin-top: 2rem;
+    //     padding: 0.7rem 0.4rem 0.7rem 0.4rem;
+    //     margin-left: 0.4rem;
+    //     font-family: 'Inconsolata', monospace;
+    //     max-width: 170px;
+    //     background-color: rgba(163, 184, 201, 0.767);
+    //     border-radius: 5px;
+    //     border-style: none; }
+      
+    //   button[type="submit"] {
+    //     font-family: 'Inconsolata', monospace;
+    //     position: relative;
+    //     left: 40%;
+    //     margin-top: 2rem;
+    //     max-width: 20%;
+    //     padding: 0.7rem 0.7rem 0.7rem 0.7rem;
+    //     background-color: rgba(163, 184, 201, 0.767);
+    //     border-style: none; }
+      
+    //   label[for="psw"] {
+    //     padding-bottom: 0; }
+      

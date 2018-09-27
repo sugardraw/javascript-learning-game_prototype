@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="bomb-total" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="200px"
+	 height="200px" viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+<![CDATA[
+	.st0{fill:#F9D816;stroke:#292D30;
+	stroke-width:4;stroke-linecap:round;
+	stroke-linejoin:round;stroke-miterlimit:10;
+	transform-origin: 68% 16%;
+	animation: strokeEffect 500ms linear infinite;
+	}
+	@keyframes strokeEffect {
+    from {stroke-dasharray: 10;
+		stroke:#ffff00;
+		transform: rotate(360deg);
+		stroke-width:1}
+    to {stroke-dasharray: 50;
+		stroke:#000;
+		transform: rotate(0deg);
+		stroke-width:20}
+	}
+	.st1{fill:#292D30;}
+	.st2{fill:#32373B;}
+	#bomb-total{
+    transform: rotate(-65deg);
+	transform-origin: 50% 50%;
+	animation: bombRotation 6s linear infinite;
+	}
+	@keyframes bombRotation {
+    from {
+		transform: rotate(360deg);
+		}
+    to {
+		transform: rotate(0deg);
+		}
+	}
+
+]]>
+</style>
+<g id="mecha">
+	<g>
+		<path class="st1" d="M100.003,58.586c-0.056,0-0.111-0.001-0.167-0.005c-1.671-0.09-2.953-1.519-2.862-3.189
+			c0.434-8.02,3.377-14.31,8.744-18.695c10.771-8.798,27.355-6.465,28.058-6.361c1.655,0.245,2.8,1.785,2.554,3.44
+			c-0.243,1.655-1.783,2.802-3.437,2.555c-0.156-0.021-14.687-2.029-23.359,5.075c-3.98,3.261-6.171,8.077-6.509,14.313
+			C102.938,57.334,101.602,58.586,100.003,58.586z"/>
+	</g>
+</g>
+<g id="mecha2">
+	<polygon class="st0" points="138.696,17.618 140.013,28.115 149.404,32.985 139.824,37.477 138.097,47.915 130.867,40.193 
+		120.404,41.778 125.514,32.512 120.774,23.052 131.164,25.045 	"/>
+</g>
+<g id="bomb">
+	<g>
+		<g>
+			<path d="M91.638,73.906h16.724c3.75,0,6.789-3.04,6.789-6.789V55.105c0-3.749-3.039-6.789-6.789-6.789H91.638
+				c-3.75,0-6.789,3.04-6.789,6.789v12.01C84.849,70.866,87.888,73.906,91.638,73.906z"/>
+		</g>
+		<g>
+			<circle class="st2" cx="100" cy="113.468" r="52.862"/>
+		</g>
+		<g>
+			<path class="st1" d="M100,60.606c-0.075,0-0.149,0.005-0.224,0.005c0,0,20.974,18.389,20.974,50.389
+				c0,44.25-20.974,55.324-20.974,55.324c0.075,0,0.149,0.005,0.224,0.005c29.195,0,52.861-23.667,52.861-52.862
+				C152.861,84.273,129.195,60.606,100,60.606z"/>
+		</g>
+	</g>
+</g>
+</svg>

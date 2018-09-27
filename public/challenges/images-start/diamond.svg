@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Designed by Vexels.com - 2018 All Rights Reserved - https://vexels.com/terms-and-conditions/-->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="50 100 1100 1100" enable-background="new 0 0 1600 16000" xml:space="preserve">
+
+<style type="text/css">
+<![CDATA[
+
+	#Layer_1{
+	width: 80%;
+	height: 80%;
+	}
+
+]]>
+</style>
+<g class ="diamond-game">
+	<g>
+		<polygon fill="#5E7DAB" points="1000.56,403.561 600,1089.134 1150,403.561 		"/>
+		<polygon fill="#5B79AB" points="600,403.561 1000.56,403.561 800.28,236.873 		"/>
+		<polygon fill="#C2D4EA" points="1000.56,403.561 936.89,110.866 800.28,236.873 		"/>
+		<polygon fill="#A0BCD8" points="1150,403.561 936.89,110.866 1000.56,403.561 		"/>
+		<polygon fill="#D9F1FF" points="936.89,110.866 600,110.866 800.28,236.873 		"/>
+		<polygon fill="#405E92" points="600,403.561 199.44,403.561 600,1089.134 1000.56,403.561 		"/>
+		<polygon fill="#5E7DAB" points="599.737,403.561 199.44,403.561 599.737,1088.684 		"/>
+		<polygon fill="#739AC9" points="50,403.561 600,1089.134 199.44,403.561 		"/>
+		<polygon fill="#97BADB" points="199.44,403.561 600,403.561 399.72,236.873 		"/>
+		<polygon fill="#C6E5F4" points="399.72,236.873 263.11,110.866 199.44,403.561 		"/>
+		<polygon fill="#BDD3E5" points="263.11,110.866 50,403.561 199.44,403.561 		"/>
+		<polygon fill="#C6E5F4" points="600,403.561 800.28,236.873 600,110.866 399.72,236.873 		"/>
+		<polygon fill="#FFFFFF" points="600,110.866 263.11,110.866 399.72,236.873 		"/>
+	</g>
+	<polygon opacity="0.1" fill="#231F20" points="936.89,110.866 600,110.866 600,1089.134 1150,403.561 	"/>
+</g>
+</svg>
