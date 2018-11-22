@@ -1,4 +1,4 @@
-# prototype for a javascript learning game
+# Prototype for a javascript learning game
 
 ### this project was build from scratch in webpack
 
