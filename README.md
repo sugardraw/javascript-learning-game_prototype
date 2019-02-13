@@ -2,7 +2,7 @@
 
 ### this project was build from scratch in webpack
 
-A main challenge was to compile the svg-images from the src folder into the public folder. For that, it was necessary to install svg-url-loader. This loader help us to use svg images as background images in our scss.
+A main challenge was to compile the svg-images from the src folder into the public folder. For that, it was necessary to install svg-url-loader. This loader help us to use svg images as background images in our scss. This project is only a prototype. No all functionalities are implemented.
 
 ```
 npm install svg-url-loader
